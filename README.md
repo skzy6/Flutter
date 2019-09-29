@@ -1,6 +1,4 @@
-# flutter_game
-
-A new Flutter application.
+# Flutter小游戏
 
 ## Getting Started
 
